@@ -1,0 +1,18 @@
+.card {
+    margin-right: 5vw;
+}
+
+.row {
+    margin-top: 15vh;
+    margin-left: 15vw;
+    margin-bottom: 20vh
+}
+
+h2 {
+    margin-top: 10vh;
+}
+
+body {
+    background-image: linear-gradient(#80FFDB, #5390D9);
+    background-repeat: no-repeat;
+}
