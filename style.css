@@ -1,0 +1,75 @@
+#displaydate {
+    margin-top: 2%;
+    font-size: 42px;
+}
+
+#date1 {
+    align-items: center;
+}
+
+body {
+    background-image: linear-gradient(to right, #84d2ff, #8d5acd);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    height: 20vh;
+    width: 20vw;
+    margin-left: 20%;
+}
+
+button.refresh {
+    display: block;
+    width: 100px;
+    margin: 10px auto;
+    background: transparent;
+    border: 0;
+    color: #9c9c9d;
+    font-size: 30px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 10px 4px 10px #252525, 5px 5px 18px #4a4a4a;
+}
+
+button.refresh:hover {
+    box-shadow: inset 10px 4pc 10pc #252525, inset 5px 5px 18px #4a4a4a;
+}
+
+.card {
+    border-radius: 50px;
+    background: #343434;
+    box-shadow: 5px 5px 10px #191b1b, -5px -5px 10px #595959;
+    padding: 3%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.card h4 {
+    font-size: 4rem;
+    font-weight: 400;
+    margin: 1rem 0;
+}
+
+img #icon {
+    width: 20%;
+}
+
+#footer1 {
+    margin-top: 5%;
+    background-color: aliceblue;
+    height: 7vh;
+    width: 100vw;
+}
+
+.col-sm-4 {
+    margin-left: 35vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-sm-4 svg {
+    height: 5vh;
+    width: 5vw;
+}
